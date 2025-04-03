@@ -2,7 +2,7 @@
 **Junior in coding, working on becoming more professional in coding**
 
 ## 🚀 Featured Projects
-- Automated file handling
+- Automated file organizer (https://github.com/Russell-1111/Junior-is-becoming-senior/blob/7370f2494f41f18d51ffa4511aaf97128eebf753/Automated%20File%20Organizer)
 
 
 ## 🛠️ Skills
