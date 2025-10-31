@@ -62,13 +62,6 @@ I design and ship practical, production-ready tools with a strong focus on Pytho
 
 ---
 
-## Selected Projects
-- [hotel-digital-management](https://github.com/Russell-1111/hotel-digital-management)  
-  Python hotel operations platform covering rooms, reservations, billing, and reporting, backed by CSV storage and tests.
-  - End-to-end domain flows with clear data models
-  - Emphasis on correctness and testability (pytest)
-  - 100% Python for clarity and portability
-
 - [Junior-is-becoming-senior](https://github.com/Russell-1111/Junior-is-becoming-senior)  
   Notes, experiments, and practical artifacts capturing the journey from junior to senior developer—focusing on code quality, problem solving, and professional habits.
 
